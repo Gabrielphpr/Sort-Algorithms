@@ -30,3 +30,7 @@ Importante frisar que há outros algoritmos que ficam próximos, que são o heap
 Sobre os piores algoritmos, iniciando no quesito temporal, pode-se classificar o bubble, o count, o insertion e o selection. Esses são algoritmos que apresentam complexidade quadrática, fazendo com que, mesmo que relativamente simples, detenham baixa eficiência.
 
 A princípio, o count e o selection podem parecer piores por não se beneficiam da ordenação, porém, se desconsiderar o caso específico das entradas ordenadas e considerar entradas mais realistas, o bubble sort proporciona o maior tempo entre os algoritmos, devido à sua grande quantidade de comparações e movimentações realizadas maiores ou iguais a dos outros. Assim, o bubble sort pode ser considerável como o pior algoritmo de ordenação.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
